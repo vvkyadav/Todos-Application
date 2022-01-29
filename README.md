@@ -19,5 +19,9 @@ To deploy this project run
 - Delete the work when its done
 - Check uncheck the work 
 - Strike through the work list for remind that the work is done
-- Persist/Sace to local Storage
+- Persist to local Storage
+
+
+## Screenshot
+![Screenshot 2022-01-14 112355](https://user-images.githubusercontent.com/88069541/151668241-bcd3b4de-c804-40d5-8b6b-05cde8c2c222.png)
 
